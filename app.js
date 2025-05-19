@@ -1,5 +1,3 @@
-
-
 console.log('Hola App');
 if (1 == 1) {
   console.log('hola');
@@ -7,6 +5,8 @@ if (1 == 1) {
   console.log("hola, esto es una prueba desde la rama de javi");
    console.log("que pasa");
    console.log("que tyarde es");
+    console.log("hola soy miriam");
+    console.log("estoy haciendo cambios")
 }else if (1==2){
     console.log("adios");
     
