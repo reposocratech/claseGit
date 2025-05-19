@@ -16,14 +16,4 @@ if (1 == 1) {
     console.log("adios");
     
 }
-
-
-console.log("Esto tiene tu marca, Edgar")
-
-console.log('Estoy cansado jefe uwu');
-console.log('Quiero un euro chuches');
-console.log('Tengo los ojos como chupetes');
-
-console.log("chatánnnnnnnnnn")
-
-
+console.log("La he liado mu gorda");
