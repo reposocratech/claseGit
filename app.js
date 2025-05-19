@@ -1,7 +1,7 @@
-
 console.log('Hola App');
 if (1 == 1) {
   console.log('hola');
+  console.log("un pinturillo???")
    console.log("que pasa");
    console.log("que tyarde es");
 }
@@ -11,4 +11,5 @@ console.log('Quiero un euro chuches');
 console.log('Tengo los ojos como chupetes');
 
 console.log("chatánnnnnnnnnn")
+
 
