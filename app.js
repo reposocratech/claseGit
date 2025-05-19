@@ -12,12 +12,12 @@ if (1 == 1) {
     
 }
 
+
+console.log("Esto tiene tu marca, Edgar")
+
 console.log('Estoy cansado jefe uwu');
 console.log('Quiero un euro chuches');
 console.log('Tengo los ojos como chupetes');
 
 console.log("chatánnnnnnnnnn")
-
-
-
 
